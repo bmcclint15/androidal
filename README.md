@@ -39,7 +39,7 @@ Now the hard stuff...
 
 ## Legal Stuff
 
-OK...this is my first 'community' project.  When I wrote this those years ago a colleague suggested I post it.  Well...Mike...here we are.  Now...what are the legalities? I am not trying to profit from this.  Not trying to step on OpenAL or any of their licenses.  This was something I needed, something maybe others could use.  If there are any issues with this, I will gladly take the project down.  I'd like to hear what folks think.  How would one tell me...maybe there is a way to message in GitLab.  I have not tried.  If you are reading this...you must be on GitLab.  Anyway...let me know.
+OK...this is my first 'community' project.  When I wrote this those years ago a colleague suggested I post it.  Well...Mike...here we are.  Now...what are the legalities? I am not trying to profit from this.  Not trying to step on OpenAL or any of their licenses.  This was something I needed, something maybe others could use.  If there are any issues with this, I will gladly take the project down.  I'd like to hear what folks think.  How would one tell me...maybe there is a way to message here.  I have not tried.  If you are reading this...you must be here.  Anyway...let me know.
 
 ## Design
 
