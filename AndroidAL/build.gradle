@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.bbs.androidal'
+    namespace 'com.github.androidal'
     compileSdk 34
 
     defaultConfig {
@@ -29,7 +29,7 @@ android {
 publishing {
     publications {
         gpr(MavenPublication) {
-            groupId "com.bbs"
+            groupId "com.github"
             artifactId "AndroidAL"
             version "0.1"
             artifact("$buildDir/outputs/aar/AndroidAL-release.aar")

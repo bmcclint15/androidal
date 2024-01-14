@@ -1,4 +1,4 @@
-package com.bbs.android_al;
+package com.github.android_al;
 
 import android.annotation.SuppressLint;
 import android.util.Log;

@@ -1,4 +1,4 @@
-package com.bbs.android_al;
+package com.github.android_al;
 
 /**
  * Simulate an OpenAL (READ-ONLY) buffer object.  This houses the data and length information.
